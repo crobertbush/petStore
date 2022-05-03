@@ -8,6 +8,10 @@ footer {
     min-height: 75px;
 }
 
+footer .btn {
+    margin: 2px;
+}
+
 header img {
     width: 100%;
     height: auto;
