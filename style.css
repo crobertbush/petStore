@@ -12,6 +12,14 @@ footer .btn {
     margin: 2px;
 }
 
+#notice {
+    text-align: center;
+}
+
+#copyright {
+    background-color: black;
+}
+
 header img {
     width: 100%;
     height: auto;
