@@ -1,3 +1,13 @@
+nav {
+    background-color: #1E1E1D;
+}
+
+footer {
+    background-color: #1E1E1D;
+    color: white;
+    min-height: 75px;
+}
+
 header img {
     width: 100%;
     height: auto;
