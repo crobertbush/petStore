@@ -12,6 +12,10 @@ footer .btn {
     margin: 2px;
 }
 
+footer p {
+    margin: 0;
+}
+
 #notice {
     text-align: center;
 }
