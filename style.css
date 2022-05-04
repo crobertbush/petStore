@@ -33,6 +33,11 @@ a {
     color: white;
 }
 
+a:hover {
+    color: slategray;
+    text-decoration: none;
+}
+
 #emblem{
     pointer-events: none;
     font-size: 30px;
