@@ -1,44 +1,56 @@
 var shop = [
     {
-      title: 'Tigers',
-      image: './img/gerbile.jpg',
-      price: '$7,500-15,000'
-      description
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
     },
-    
-  
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    },
+    {
+        title: 'Tigers',
+        image: './img/gerbile.jpg',
+        price: '$7,500-15,000'
+        description
+    }
     
     ]
     
     var postHTML = " "
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
-  
   
     for (var i=0; i < ; i++){
         var heading = '<div class="product ' + '"><span><h5>' + shop[i].title + '</h5>'
