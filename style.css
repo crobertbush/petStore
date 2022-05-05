@@ -2,6 +2,11 @@ nav {
     background-color: #1E1E1D;
 }
 
+header img {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     background-color: #1E1E1D;
     color: white;
@@ -22,11 +27,6 @@ footer p {
 
 #copyright {
     background-color: black;
-}
-
-header img {
-    width: 100%;
-    height: auto;
 }
 
 a {
