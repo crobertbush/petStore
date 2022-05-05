@@ -48,7 +48,7 @@ h2 {
     padding-bottom: 3rem;
 }
 
-.locations {
+.locations, .about {
     background-color: #cccccc;
     padding: 3rem;
 }
