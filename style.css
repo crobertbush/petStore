@@ -48,7 +48,13 @@ h2 {
     padding-bottom: 3rem;
 }
 
-.locations, .about {
+.locations, .about, .customers, .brands, .store {
     background-color: #cccccc;
     padding: 3rem;
+}
+
+.card {
+    margin-bottom: 5px;
+    background-color: transparent;
+    border-color: transparent;
 }
