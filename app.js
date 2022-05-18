@@ -179,7 +179,7 @@ var bagged = [
     
     // Treats Market
     for (var i=0; i < treats.length; i++){
-        var heading = '<div class="card product col-sm-6 col-md-4 col-lg-3 pb-5 ' + '"><span><h5>' + treats[i].title + '</h5>'
+        var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + treats[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + treats[i].image + '"/'
         var price = '<div><p> $' + treats[i].price + '</p></span>'
         var description = '<div><p>'+ treats[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
@@ -191,7 +191,7 @@ var bagged = [
 
     // Canned Market
     for (var i=0; i < canned.length; i++){
-        var heading = '<div class="card product col-sm-6 col-md-4 col-lg-3 pb-5 ' + '"><span><h5>' + canned[i].title + '</h5>'
+        var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + canned[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + canned[i].image + '"/'
         var price = '<div><p> $' + canned[i].price + '</p></span>'
         var description = '<div><p>'+ canned[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
@@ -204,7 +204,7 @@ var bagged = [
 
     // Bagged Market
     for (var i=0; i < bagged.length; i++){
-        var heading = '<div class="card product col-sm-6 col-md-4 col-lg-3 pb-5 ' + '"><span><h5>' + bagged[i].title + '</h5>'
+        var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + bagged[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + bagged[i].image + '"/'
         var price = '<div><p> $' + bagged[i].price + '</p></span>'
         var description = '<div><p>'+ bagged[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'

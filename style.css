@@ -10,7 +10,7 @@ header img {
 footer {
     background-color: #1E1E1D;
     color: white;
-    min-height: 75px;
+    min-height: 4.6875em;
 }
 
 footer .btn {
@@ -40,7 +40,7 @@ a:hover {
 
 #emblem{
     pointer-events: none;
-    font-size: 30px;
+    font-size: 1.875em;
 }
 
 h2 {
@@ -54,13 +54,13 @@ h2 {
 }
 
 .card {
-    margin-bottom: 5px;
+    margin-bottom: .3125em;
     background-color: transparent;
     border-color: transparent;
     text-align: center;
 }
 
 .carousel-item img{
-    height: 350px;
-    width: 350px;
+    height: 21.875em;
+    width: 21.875em;
 }
