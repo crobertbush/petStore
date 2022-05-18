@@ -1,3 +1,4 @@
+// Original JavaScript
 // var shop = [
 //     {
 //         title: 'BLUE',
@@ -86,7 +87,10 @@
 //     }
 //     document.getElementById('market').innerHTML = postHTML
 
-//Treats Array
+
+
+
+// Treats Array
 var treats = [
     {
         title: 'BLUE',
@@ -113,7 +117,7 @@ var treats = [
         description: "Grain Free Treats"
     } ]
 
-//Canned Array
+// Canned Array
 var canned = [    
     {
         title: "NEWMAN'S OWN",
@@ -140,7 +144,7 @@ var canned = [
         description: "Canned Salmon & Duck Dinner"
     } ]
 
-//Bagged Array
+// Bagged Array
 var bagged = [    
     {
         title: 'KIRKLAND',
