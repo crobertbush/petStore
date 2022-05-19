@@ -182,7 +182,7 @@ var bagged = [
         var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + treats[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + treats[i].image + '"/'
         var price = '<div><p> $' + treats[i].price + '</p></span>'
-        var description = '<div><p>'+ treats[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
+        var description = '<div><p>'+ treats[i].description + '</p><button type="button" class="btn btn-primary"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
         var concatThis = heading + image + price + description;
         postHTML = postHTML + concatThis
     }
@@ -194,7 +194,7 @@ var bagged = [
         var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + canned[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + canned[i].image + '"/'
         var price = '<div><p> $' + canned[i].price + '</p></span>'
-        var description = '<div><p>'+ canned[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
+        var description = '<div><p>'+ canned[i].description + '</p><button type="button" class="btn btn-primary"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
         var concatThis = heading + image + price + description;
         postHTML1 = postHTML1 + concatThis
     }
@@ -207,7 +207,7 @@ var bagged = [
         var heading = '<div class="card product col-sm-6 col-md-6 col-lg-3 pb-5 ' + '"><span><h5>' + bagged[i].title + '</h5>'
         var image = '<img style="height: 270px; width: 240px;" class="img-fluid" src="' + bagged[i].image + '"/'
         var price = '<div><p> $' + bagged[i].price + '</p></span>'
-        var description = '<div><p>'+ bagged[i].description + '</p><button type="button" class="btn btn-success"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
+        var description = '<div><p>'+ bagged[i].description + '</p><button type="button" class="btn btn-primary"><img src="./img/cart-plus.svg"/> add to cart</button></div></div>'
         var concatThis = heading + image + price + description;
         postHTML2 = postHTML2 + concatThis
     }

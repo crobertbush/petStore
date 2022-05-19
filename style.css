@@ -11,6 +11,12 @@ nav {
     background-size: cover;
 }
 
+#header-text {
+    position: absolute;
+    top: 20%;
+    left: 2%;
+}
+
 footer {
     background-color: #1E1E1D;
     color: white;
